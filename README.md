@@ -1,4 +1,4 @@
-In this case study I'm using R and the ggplot2 library in order to create a thematic map regarding Ebola's confirmed cases in Sierra Leone between 5 - 8 Dec 2015. 
+In this case study I'm using R and the ggplot2 library in order to create a thematic map regarding Ebola's confirmed cases in Sierra Leone between 5 - 8 December 2015. 
 
 
 
